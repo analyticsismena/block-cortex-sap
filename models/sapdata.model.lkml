@@ -1,4 +1,4 @@
-connection: "nakilat_bigquery"
+connection: "bq_cortex"
 
 # include all the views
 include: "/views/**/*.view.lkml"
