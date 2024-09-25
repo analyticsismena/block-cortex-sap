@@ -1,4 +1,4 @@
-project_name: "nakilat_sap"
+project_name: "sap_cortex"
 
 # # Use local_dependency: To enable referencing of another project
 # # on this instance with include: statements
