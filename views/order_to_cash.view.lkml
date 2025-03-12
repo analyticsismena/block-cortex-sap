@@ -115,6 +115,9 @@ view: order_to_cash {
     map_layer_name: countries
     sql: ${TABLE}.Country ;;
   }
+
+
+
   dimension_group: creation_date_erdat {
     type: time
     timeframes: [raw, date, week, month, quarter, year]
